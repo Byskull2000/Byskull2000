@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola, soy Diego Grajeda! 👋</h1>
+<h1 align="center">¡Hola, soy Diego! 👋</h1>
 
 <p align="center">
   🧠 Desarrollador apasionado por la tecnología <br>
