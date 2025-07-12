@@ -36,7 +36,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grajediego&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Byskull2000&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
 </div>
 
 ---
