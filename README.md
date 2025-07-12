@@ -1,16 +1,69 @@
 ## Hi there 👋
 
-<!--
-**Byskull2000/Byskull2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">¡Hola, soy Diego Grajeda! 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  🧠 Desarrollador apasionado por la tecnología <br>
+  🌍 De Bolivia<br>
+  💻 Fanático del código limpio y las buenas prácticas
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tecnologías que domino
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+</div>
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=grajediego&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de Diego" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=grajediego&theme=radical&hide_border=true" alt="Racha de contribuciones" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grajediego&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
+</div>
+
+---
+
+### 💡 Sobre mí
+
+- 🎯 Enfocado en construir interfaces limpias, rápidas y accesibles
+- 🎓 Apasionado por el aprendizaje continuo
+- ✨ Amante del diseño, la animación y las experiencias digitales
+- 🛠️ Siempre buscando resolver problemas con tecnología
+
+---
+
+### 📫 Conéctate conmigo
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/diegograjeda" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:grajediego@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<p align="center">
+  🧩 "El mejor código no se nota. Solo funciona." ⚙️
+</p>
+
