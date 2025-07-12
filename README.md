@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">¡Hola, soy Diego Grajeda! 👋</h1>
 
 <p align="center">
